@@ -63,7 +63,7 @@ erDiagram
 2. **Delivery Performance** — late delivery % by category and by state (map)
 3. **Payment Analysis** — revenue by payment type, installment distribution
 
-![Sales Overview page](screenshots/sales-overview.png)
+![Sales Overview](./sales-overview.png)
 
 ## Files
 
